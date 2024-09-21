@@ -37,3 +37,5 @@
 
    This will trigger a GitHub Action workflow which will create a GitHub release and upload the
    release artifacts to Maven Central.
+
+9.   README.md
